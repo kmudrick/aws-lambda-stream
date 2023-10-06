@@ -3,3 +3,4 @@ lib/
 coverage/
 templates/
 _bak/
+/**/*.d.ts
